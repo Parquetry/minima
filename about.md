@@ -10,6 +10,8 @@ Lauderdale and Miami whenever I was impelled. If you look at my house from Googl
 by the HOWA board, and I lived in Florida (it’s famously flat), and the skatepark, I visited every week, it was devoid of people. Not once did I see anyone there. 
 So skating was also out of the question too. I took to a revolution of the mind, whatever that means. I’m still working that out. 
 
+I come from a long line of English grocers. There's a specific grocery store in Boston UK, and it was the family business for several generations. But my dad and his brother were the first to break the mold, the former becoming a journalist for supermarket tabloids and the latter a schoolmaster and Latin tutor. 
+
 I never had the money for clothes and sneakers, so my solace was in music and literature. I turned to music boards and forums, you can check out my last.fm page here, it's been scrobbling my Spotify plays for ten years – Soulseek torrents and YouTube streams are therefore not included, unfortunately. I wanted Bernie Sanders to be president, I preferred the nonhierarchical spirit of punk, rave, and Broward County rap to the high production value of mainstream rock, EDM, and Atlanta rap. I eventually realized I preferred music burning with life, that changes how you dress and what you dream of, and hopefully inclusive. 
 
 <img class="image" src="Screenshot 2023-07-27 at 12.08.38 PM.png">

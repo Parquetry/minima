@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Manifesto
 permalink: /about/
 ---
 My first creative experiences began at the intersection of digital subcultures and IRL moments. Growing up in the hinterlands of the Miami metropolitan area and 

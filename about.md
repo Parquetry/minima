@@ -14,4 +14,4 @@ I never had the money for clothes and sneakers, so my solace was in music and li
 spirit of punk, rave, and soundcloud rap to the high production of dadrock, EDM, and atlanta rap. I eventually realized I preferred music burning with life, 
 that changes how you dress and what you dream of, 
 
-<img class="image" src="screenshot.png">
+<img class="image" src="Screenshot 2023-07-27 at 12.08.38 PM.png">

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Manifesto
-permalink: /about/
+permalink: /manifesto/
 ---
 My first creative experiences began at the intersection of digital subcultures and IRL moments. Growing up in the hinterlands of the Miami metropolitan area and 
 being relegated to private schools, gifted classes, and magnet programs entailed a degree of estrangement from life/culture/urban society that meant I had to fashion

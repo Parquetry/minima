@@ -8,10 +8,8 @@ being relegated to private schools, gifted classes, and magnet programs entailed
 my own cultural identity from online reports, communities, and relationships. It meant I was often dreaming of art exhibitions and sports events, and racing down to Ft.
 Lauderdale and Miami whenever I was impelled. If you look at my house from Google Maps, you can see I was on the edge of the Everglades. My neighborhood was dominated
 by the HOWA board, and I lived in Florida (it’s famously flat), and the skatepark, I visited every week, it was devoid of people. Not once did I see anyone there. 
-So skating was also out of the question too. I took to a revolution of the mind, whatever that means. I’m still working that out. I turned 
+So skating was also out of the question too. I took to a revolution of the mind, whatever that means. I’m still working that out. 
 
-I never had the money for clothes and sneakers, so my solace was in music and literature. I wanted Bernie Sanders to be president, I preferred the nonhierarchical 
-spirit of punk, rave, and soundcloud rap to the high production of dadrock, EDM, and atlanta rap. I eventually realized I preferred music burning with life, 
-that changes how you dress and what you dream of, 
+I never had the money for clothes and sneakers, so my solace was in music and literature. I turned to music boards and forums, you can check out my last.fm page here, it's been scrobbling my Spotify plays for ten years – Soulseek torrents and YouTube streams are therefore not included, unfortunately. I wanted Bernie Sanders to be president, I preferred the nonhierarchical spirit of punk, rave, and Broward County rap to the high production value of mainstream rock, EDM, and Atlanta rap. I eventually realized I preferred music burning with life, that changes how you dress and what you dream of, and hopefully inclusive. 
 
 <img class="image" src="Screenshot 2023-07-27 at 12.08.38 PM.png">

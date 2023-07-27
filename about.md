@@ -13,3 +13,5 @@ So skating was also out of the question too. I took to a revolution of the mind,
 I never had the money for clothes and sneakers, so my solace was in music and literature. I wanted Bernie Sanders to be president, I preferred the nonhierarchical 
 spirit of punk, rave, and soundcloud rap to the high production of dadrock, EDM, and atlanta rap. I eventually realized I preferred music burning with life, 
 that changes how you dress and what you dream of, 
+
+<img class="image" src="screenshot.png">

@@ -4,4 +4,4 @@ layout: post
 
 I wrote profiles on New Orleans notables 
 
-<a href="https://github.com/Parquetry/minima/blob/2241bdd75d956c93d29f92dba513d9c708a0f891/New%20Orleans%20journlism.pdf" target"_blank">PDF.</a>
+<object data="{{ post.New Orleans journlism.pdf }}" width="1000" height="1000" type='application/pdf'/>

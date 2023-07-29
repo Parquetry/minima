@@ -4,4 +4,4 @@ layout: post
 
 I wrote profiles on New Orleans notables 
 
-<object data="{{ post.New Orleans journlism.pdf }}" width="1000" height="1000" type='application/pdf'/>
+<object data="{{ post.assets/New-Orleans-journlism.pdf }}" width="1000" height="1000" type='application/pdf'/>
